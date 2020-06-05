@@ -1,6 +1,6 @@
 # MusicPlayer
 
-<img src="MusicPlayer/MusicPlayerUI/src/musicplayerui/images/Capture.JPG">
+<img src="MusicPlayer/MusicPlayerUI/src/musicplayerui/images/Capture.JPG" width="100" height="10">
 
 
 The music player allows a user to play media file formats. It can be used to play audio files. 
