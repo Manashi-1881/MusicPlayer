@@ -1,4 +1,8 @@
 # MusicPlayer
+
+<img src="MusicPlayer/MusicPlayerUI/src/musicplayerui/images/Capture.JPG">
+
+
 The music player allows a user to play media file formats. It can be used to play audio files. 
 The music player is a software project supporting mp3 media files and has the ability to play them with ease.
 
